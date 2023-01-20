@@ -1,0 +1,10 @@
+.custom_input input {
+  border: none;
+  outline: none;
+  line-height: 19px;
+  letter-spacing: -0.5px;
+  color: var(--black);
+  border-left: 1px solid var(--black);
+  padding: 0px 3px;
+  margin-bottom: 12.44px;
+}
