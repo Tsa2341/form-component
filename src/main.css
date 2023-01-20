@@ -46,6 +46,9 @@ body {
   overflow: auto;
   font-family: Campton;
 }
+body {
+  padding: 10px;
+}
 
 ::-webkit-scrollbar {
   width: 8px;
